@@ -1,0 +1,155 @@
+[33mcommit 72ccc9f413d866d43eb55cf1e9e2cf8c7012f4ac[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Thu Aug 19 11:09:43 2021 +0900
+
+    Add design file
+
+[33mcommit 076c62c6ed3eb33367da13079fd95d35b8d8dd10[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Thu Aug 19 11:04:23 2021 +0900
+
+    210819 before 7.3 Handling strings
+
+[33mcommit 961a25e2cfec45afe5f485e0da40b5be235952fa[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Tue Aug 17 13:45:15 2021 +0900
+
+    210817 before 7.2.3 value replacement
+
+[33mcommit 767b3ed4a8c84b8720dc99a5f8a66aea379ab7bc[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Mon Aug 16 22:13:41 2021 +0900
+
+    210816 before chapter 7. data wrangling and preperation
+
+[33mcommit c6f78a6b0d080a3bddcc108d7511f9f0a5347b40[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Sun Aug 15 20:40:43 2021 +0900
+
+    210815 before Chapter 6. Data loading, saving, and structure of file
+
+[33mcommit 92cf37b96b8694a13163823a0f50660f44f070c8[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Sun Aug 15 00:06:11 2021 +0900
+
+    210815 before 5.2.4 integer indexing
+
+[33mcommit c3b06958f6c7d713cf3e039e0ef9394873779161[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Sat Aug 14 20:36:24 2021 +0900
+
+    Chapter 4. Numpy basic is finisied
+
+[33mcommit e481ae698d0675fc697796af17f1fd7022ce0d26[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Tue Aug 10 21:23:35 2021 +0900
+
+    before 4.6 random number generate
+
+[33mcommit 76c884a9075bee5dc74b09198b27cb6baf1aae05[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Mon Aug 9 11:25:42 2021 +0900
+
+    Before 4.3.5 set related function
+
+[33mcommit 4e86b2436911383406a31ebb5c84c916cbb26e79[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Sun Aug 8 23:04:20 2021 +0900
+
+    Before 4.2 Universal function
+
+[33mcommit 5eef18e85712179e88a306694e2f8041ef2041dd[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Thu Aug 5 11:38:42 2021 +0900
+
+    210805 before 3.3.1 byte and unicode
+
+[33mcommit 52b48e74cba19df4e0675cd83e94731ac1f11586[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Tue Aug 3 11:43:28 2021 +0900
+
+    210803 before 3.2 functions
+
+[33mcommit b050db04aac3ebdc6810c336b90b05296274a1ad[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Wed Jul 28 13:51:18 2021 +0900
+
+    2021-07-28 13:51 study
+
+[33mcommit 047e5210d0c2b2b4da0d8aa092dc9fe13e8eea7c[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Sat Jul 24 16:16:56 2021 +0900
+
+    Chapter 2 is finished
+
+[33mcommit 143db6db3afafa3d70df8c33738a88baa5fdaf0a[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Fri Jul 23 23:42:34 2021 +0900
+
+    Practice code of Python for Data Anlysis is added
+
+[33mcommit f8560b35dff5eae238b16a683ab1436986180e66[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Thu Jul 22 18:48:14 2021 +0900
+
+    folder add
+
+[33mcommit 3fa796c7287e8e8883fd2bf5e3204c02ad0ebeec[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Thu Jul 22 17:59:41 2021 +0900
+
+    update files
+
+[33mcommit a71bcbabe2bc3ac9f2a554d263f581d1ce1a97db[m
+Author: Hyeonwoo Kim <65546056+gusdn5656@users.noreply.github.com>
+Date:   Thu Jul 22 16:37:45 2021 +0900
+
+    Delete Untitled1.ipynb
+
+[33mcommit 3139a3503c45a07c375129acb203d58dda0cfcda[m
+Author: Hyeonwoo Kim <65546056+gusdn5656@users.noreply.github.com>
+Date:   Thu Jul 22 16:37:08 2021 +0900
+
+    Update README.md
+
+[33mcommit 1ec2d3214496c45de6119682400db6dfa0fdbe41[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Thu Jul 22 16:36:04 2021 +0900
+
+    add python files
+
+[33mcommit e2507d646f2996b85dc5610d4384aac0c91e5290[m
+Author: Hyeonwoo Kim <65546056+gusdn5656@users.noreply.github.com>
+Date:   Thu Jul 22 16:16:52 2021 +0900
+
+    Update README.md
+
+[33mcommit c457982db82d99fe66a7d32a6d427dbec66dad52[m
+Author: Hyeonwoo Kim <65546056+gusdn5656@users.noreply.github.com>
+Date:   Thu Jul 22 16:16:32 2021 +0900
+
+    Update README.md
+
+[33mcommit b1dda57cc7fc9128278af78ed304f4d96cd08c01[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Thu Jul 22 16:15:03 2021 +0900
+
+    modify README 2
+
+[33mcommit e7de7b6fa379cc50f00c86ebaaa4f931a52d383a[m
+Author: Hyeonwoo Kim <65546056+gusdn5656@users.noreply.github.com>
+Date:   Thu Jul 22 16:05:58 2021 +0900
+
+    Update README.md
+
+[33mcommit f902e510cd7ba2be3c3c9f63f7426096f20ff876[m
+Author: gusdn5656 <gusdn5656@gmail.com>
+Date:   Thu Jul 22 16:02:24 2021 +0900
+
+    modify README
+
+[33mcommit 6fd5027c1ba4970f20d50c893372cb7002ccedb2[m
+Author: Hyeonwoo Kim <65546056+gusdn5656@users.noreply.github.com>
+Date:   Thu Jul 22 14:49:20 2021 +0900
+
+    Initial commit
